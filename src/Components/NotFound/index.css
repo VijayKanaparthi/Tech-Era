@@ -1,0 +1,15 @@
+.Not-Found-container {
+  width: 100vw;
+  height: 100vh;
+}
+.not-found {
+  width: 400px;
+  height: 400px;
+}
+.not-found-sub {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
